@@ -2,7 +2,7 @@
 I'm a Information Systems student at the University Center CESMAC of Alagoas, Brazil. I've great interest in Web development, mainly Front-End development. Member of the academic league Initiative Dev ([IDev](https://www.instagram.com/iniciativadev/)).
 <br />
 
-[https://img.shields.io/badge/-Ramon_Bomfim-blue?style=flat-square&logo=Linkedin&logoColor=white](https://www.linkedin.com/in/ramon-bomfim-8372a919a/)
+[![Linkedin](https://img.shields.io/badge/-Ramon_Bomfim-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-bomfim-8372a919a/)
 <br />
 
 - 👩🏻‍💻 I'm currently an intern in the development team of the Secretariat of Planning, Management and Heritage of Alagoas. Acting primarily as a Back-End developer, using Python and its Django web framework.
