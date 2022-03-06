@@ -6,7 +6,7 @@ I'm a Information Systems student at the University Center CESMAC of Alagoas, Br
 <br />
 
 - 👩🏻‍💻 I was an intern in the development team of the Secretariat of Planning, Management and Heritage of Alagoas. Acting primarily as a Back-End developer, using Python and its Django web framework. And I was too an intern at Comdinheiro, acting as a mobile developer, using React-Native.
-- 🌱 I'm currently learning React.js
+- 🌱 I'm currently learning Java
 - 💬 Ask me about Python
 - 😄 In my free time, I like watching movies with my bride and sometimes I like to play online games.
 
@@ -14,6 +14,7 @@ I'm a Information Systems student at the University Center CESMAC of Alagoas, Br
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
