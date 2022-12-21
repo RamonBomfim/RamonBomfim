@@ -1,5 +1,5 @@
 <img src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ramon Bomfim</h2>
-I'm a Information Systems student at the University Center CESMAC of Alagoas, Brazil. I've great interest in Web development, mainly Front-End development. Member of the academic league Initiative Dev ([IDev](https://www.instagram.com/iniciativadev/)).
+I'm a Analysis and Development of Systems student at the University Center CESMAC of Alagoas, Brazil. I've great interest in Web development, mainly Front-End development.
 <br />
 
 [![Linkedin](https://img.shields.io/badge/-Ramon_Bomfim-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-bomfim-8372a919a/)
